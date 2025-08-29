@@ -1,7 +1,4 @@
 # Probability Theory
-
-## 
-
 ## 文件列表
 - 📁 Assignment/
     - 📄 [PT_Assignment 1.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Probability%20Theory/Assignment/PT_Assignment%201.pdf)

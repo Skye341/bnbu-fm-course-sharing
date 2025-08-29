@@ -1,6 +1,7 @@
 # Microeconomics
 
-智大概在前八周就可以讲完整门课，所以后面的时间他会拿一些文章放到课上来讨论。## 文件列表
+智大概在前八周就可以讲完整门课，所以后面的时间他会拿一些文章放到课上来讨论。
+## 文件列表
 - 📁 Exercises 2024fall/
     - 📄 [Chapter 1 Exercises.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exercises%202024fall/Chapter%201%20Exercises.pdf)
     - 📄 [Chapter 1 Exercises_Sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exercises%202024fall/Chapter%201%20Exercises_Sol.pdf)

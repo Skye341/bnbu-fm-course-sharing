@@ -1,4 +1,5 @@
-# Financial Mathematics## 文件列表
+# Financial Mathematics
+## 文件列表
 - 📁 Homework 2024fall/
     - 📄 [Ass1 sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Financial%20Mathematics/Homework%202024fall/Ass1%20sol.pdf)
     - 📄 [Ass2 sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Financial%20Mathematics/Homework%202024fall/Ass2%20sol.pdf)

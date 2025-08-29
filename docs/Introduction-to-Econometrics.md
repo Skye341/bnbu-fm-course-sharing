@@ -1,4 +1,5 @@
-# Introduction to Econometrics## 文件列表
+# Introduction to Econometrics
+## 文件列表
 - 📁 Exercise 2024fall/
     - 📁 Exercise 2 data/
         - 📄 [ceosal2.RData](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%202%20data/ceosal2.RData)

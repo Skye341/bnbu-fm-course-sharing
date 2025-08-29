@@ -1,7 +1,5 @@
 # Ordinary Differential Equations
 
-## 
-
 ## 文件列表
 - 📁 Assignment/
     - 📄 [HW1.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Ordinary%20Differential%20Equations/Assignment/HW1.pdf)

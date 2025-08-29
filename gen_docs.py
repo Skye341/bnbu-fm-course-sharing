@@ -76,7 +76,7 @@ def readme_process():
         
         # 如果是顶级目录，添加标题
         if indent_level == 0:
-            return "## 文件列表\n" + "\n".join(items) + "\n"
+            return "\n## 文件列表\n" + "\n".join(items) + "\n"
         else:
             return items
 

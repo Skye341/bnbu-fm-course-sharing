@@ -1,4 +1,5 @@
-# Applied Stochastic Process## 文件列表
+# Applied Stochastic Process
+## 文件列表
 - 📁 Assignments 2024fall/
     - 📄 [Additional Examples on Martingales.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Assignments%202024fall/Additional%20Examples%20on%20Martingales.pdf)
     - 📄 [Solution 7.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Assignments%202024fall/Solution%207.pdf)
