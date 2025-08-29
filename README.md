@@ -24,7 +24,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家
 如因上述内容为项目造成任何不利影响，责任由资源上传者负担。如果你认为本仓库的一些文件侵犯了您的权益，请 [向我们发送邮件](mailto:fm-course@outlook.com) 。我们将会从仓库中彻底清除这些文件。
 
 ## 致谢
-本项目受[浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/)与[清华大学计算机系课程攻略](REKCARC-TSC-UHT.readthedocs.io)的启发，在此表示感谢！
+本项目受[浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/)与[清华大学计算机系课程攻略](https://rekcarc-tsc-uht.readthedocs.io/en/latest/)的启发，在此表示感谢！
 
 请参阅[致谢名单](./docs/thanks.md)
 
