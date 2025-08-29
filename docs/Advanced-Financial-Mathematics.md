@@ -1,6 +1,5 @@
 # Advanced Financial Mathematics
 
-
 ## 文件列表
 - 📁 Assignments 2025spring/
     - 📄 [FM2_A1.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Advanced%20Financial%20Mathematics/Assignments%202025spring/FM2_A1.pdf)

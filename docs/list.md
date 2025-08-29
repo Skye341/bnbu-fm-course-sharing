@@ -21,6 +21,9 @@
 - Risk Management in Finance
 - Time Series for Finance and Macroeconomics
 ## Major Elective
+- Numerical Analysis
+- Complex Analysis
+- Partial Differential Equations
 ## Free Elective
 ## General Education
 ## University Core

@@ -32,7 +32,10 @@ def readme_process():
             file_list_section = generate_recursive_file_list(folder, base_path=folder)
             
             # 替换或添加文件列表部分
-            new_content = content + file_list_section
+            if content.endswith('\n'):
+                new_content = content + file_list_section
+            else:
+                new_content = content + '\n' + file_list_section
 
             # 获取课程名称
             courseName = folder.relative_to(folder.parent)
@@ -76,7 +79,7 @@ def readme_process():
         
         # 如果是顶级目录，添加标题
         if indent_level == 0:
-            return "\n## 文件列表\n" + "\n".join(items) + "\n"
+            return "## 文件列表\n" + "\n".join(items) + "\n"
         else:
             return items
 
