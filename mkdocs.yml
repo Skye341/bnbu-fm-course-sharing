@@ -9,27 +9,27 @@ nav:
   - 收录课程名录: list.md
   - 致谢: thanks.md
   - Major Require:
-    - ('Calculus I', 'MATH1073'): Calculus-I.md
-    - ('Linear Algebra I', 'MATH1053'): Linear-Algebra-I.md
-    - ('Principles of Accounting I', 'ACCT2003'): Principles-of-Accounting-I.md
-    - ('Calculus II', 'MATH1083'): Calculus-II.md
-    - ('Linear Algebra II', 'MATH1063'): Linear-Algebra-II.md
-    - ('C++ Programming Language', 'COMP3153'): C++-Programming-Language.md
-    - ('Ordinary Differential Equations', 'MATH2043'): Ordinary-Differential-Equations.md
-    - ('Introdction to Finance', 'FINM2063'): Introdction-to-Finance.md
-    - ('Probability Theory', 'STAT2063'): Probability-Theory.md
-    - ('Mathematical Statistics', 'MATH2033'): Mathematical-Statistics.md
-    - ('Data Structure', 'COMP3283'): Data-Structure.md
-    - ('Advanced Financial Mathematics', 'FINM4073'): Advanced-Financial-Mathematics.md
-    - ('Applied Stochastic Process', 'MATH3173'): Applied-Stochastic-Process.md
-    - ('Financial Mathematics', 'FINM3143'): Financial-Mathematics.md
-    - ('Introduction to Econometrics', 'FINM3123'): Introduction-to-Econometrics.md
-    - ('Investments', 'FINM3093'): Investments.md
-    - ('Macroeconomics', 'ECON2113'): Macroeconomics.md
-    - ('Microeconomics', 'ECON2103'): Microeconomics.md
-    - ('Risk Management in Finance', 'FINM3033'): Risk-Management-in-Finance.md
-    - ('Time Series for Finance and Macroeconomics', 'FINM3133'): Time-Series-for-Finance-and-Macroeconomics.md
+    - Calculus I: Calculus-I.md
+    - Linear Algebra I: Linear-Algebra-I.md
+    - Principles of Accounting I: Principles-of-Accounting-I.md
+    - Calculus II: Calculus-II.md
+    - Linear Algebra II: Linear-Algebra-II.md
+    - C++ Programming Language: C++-Programming-Language.md
+    - Ordinary Differential Equations: Ordinary-Differential-Equations.md
+    - Introdction to Finance: Introdction-to-Finance.md
+    - Probability Theory: Probability-Theory.md
+    - Mathematical Statistics: Mathematical-Statistics.md
+    - Data Structure: Data-Structure.md
+    - Advanced Financial Mathematics: Advanced-Financial-Mathematics.md
+    - Applied Stochastic Process: Applied-Stochastic-Process.md
+    - Financial Mathematics: Financial-Mathematics.md
+    - Introduction to Econometrics: Introduction-to-Econometrics.md
+    - Investments: Investments.md
+    - Macroeconomics: Macroeconomics.md
+    - Microeconomics: Microeconomics.md
+    - Risk Management in Finance: Risk-Management-in-Finance.md
+    - Time Series for Finance and Macroeconomics: Time-Series-for-Finance-and-Macroeconomics.md
   - Major Elective:
-    - ('Numerical Analysis', 'MATH4083'): Numerical-Analysis.md
-    - ('Complex Analysis', 'MATH4093'): Complex-Analysis.md
-    - ('Partial Differential Equations', 'MATH3033'): Partial-Differential-Equations.md
+    - Numerical Analysis: Numerical-Analysis.md
+    - Complex Analysis: Complex-Analysis.md
+    - Partial Differential Equations: Partial-Differential-Equations.md

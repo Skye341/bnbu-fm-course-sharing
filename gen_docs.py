@@ -132,7 +132,7 @@ def generate_mkdocs():
         for course in courseList[i]:
             
             DashedName = str(course[0]).replace(' ', '-')
-            mkdocsContent += f"    - {course}: {DashedName}.md\n"
+            mkdocsContent += f"    - {course[0]}: {DashedName}.md\n"
     
     with open(Path(__file__).parent / "mkdocs.yml", 'w', encoding='utf-8') as f:
         f.write(mkdocsContent)
