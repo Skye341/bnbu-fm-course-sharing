@@ -51,7 +51,7 @@ def readme_process():
         except Exception as e:
             print(f"处理 {readme_path} 时出错: {e}")
 
-    def generate_recursive_file_list(folder, base_path, indent_level=0):
+    def generate_recursive_file_list(folder : Path, base_path : Path, indent_level=0):
 
         """递归生成文件列表部分的Markdown内容"""
         items = []
@@ -61,6 +61,9 @@ def readme_process():
         for item in sorted(folder.iterdir(), key=lambda x: (not x.is_dir(), x.name.lower())):
             # 忽略readme.md文件本身
             if item.name.lower() == 'readme.md':
+                continue
+            # 遇到隐藏文件(夹)跳过
+            if item.name.lower().startswith('.'):
                 continue
             
             relatedDIR = str(item.relative_to(current_dir)).replace(' ', '%20').replace('\\','/')
@@ -96,18 +99,17 @@ def readme_process():
             if readme_path.exists():
                 readme_gen(readme_path, subdir)
 
-def gen_courselist():
-    pass
-
 
 def generate_mkdocs():
     courseDf = read_csv('./CourseList.csv', index_col=None)
-    courseDf = courseDf.replace({'MR' : 0, 'ME' : 1, 'FE' : 2, 'GE' : 3, 'UC' : 4, 'Other' : 5})
+    category_mapping = {'MR': 0, 'ME': 1, 'FE': 2, 'GE': 3, 'UC': 4, 'Other': 5}
+    courseDf['Category'] = courseDf['Category'].map(category_mapping)
+    # courseDf.fillna(value=None, inplace=True)
     courseDf.sort_values(["Category", "Course Code"], ascending=True, inplace=True)
     
     courseList = [[],[],[],[],[],[]]
     for i in range(len(courseDf)):
-        courseList[courseDf.loc[i]['Category']].append(courseDf.loc[i]['Name'])
+        courseList[courseDf.loc[i]['Category']].append((courseDf.loc[i]['Name'], courseDf.loc[i]['Course Code']))
 
     categories = ['Major Require','Major Elective','Free Elective','General Education','University Core','Other Meterials']
 
@@ -115,7 +117,7 @@ def generate_mkdocs():
     for i, type in enumerate(categories):
         courseMarkDownContent += f"## {type}\n"
         for c in courseList[i]:
-            courseMarkDownContent += f"- {c}\n"
+            courseMarkDownContent += f"- {c[0]} ({c[1] if c[1] != '0' else '-'})\n"
     
     with open(Path(__file__).parent / "docs" / "list.md", 'w', encoding='utf-8') as f:
         f.write(courseMarkDownContent)
@@ -129,7 +131,7 @@ def generate_mkdocs():
 
         for course in courseList[i]:
             
-            DashedName = str(course).replace(' ', '-')
+            DashedName = str(course[0]).replace(' ', '-')
             mkdocsContent += f"    - {course}: {DashedName}.md\n"
     
     with open(Path(__file__).parent / "mkdocs.yml", 'w', encoding='utf-8') as f:
