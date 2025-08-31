@@ -1,6 +1,6 @@
 # LInear Algebra I
 ## 文件列表
-- 📁 Homework/
+- 📁 [Homework](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Homework)/
     - 📄 [HW1a.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Homework/HW1a.pdf)
     - 📄 [HW1b.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Homework/HW1b.pdf)
     - 📄 [HW2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Homework/HW2.pdf)
@@ -12,7 +12,7 @@
     - 📄 [HW5a.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Homework/HW5a.pdf)
     - 📄 [HW5b.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Homework/HW5b.pdf)
     - 📄 [HW7.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Homework/HW7.pdf)
-- 📁 Lecture Slides (Update on each section)-20220903/
+- 📁 [Lecture Slides (Update on each section)-20220903](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Lecture%20Slides%20(Update%20on%20each%20section)-20220903)/
     - 📄 [LA-Sc11-short.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Lecture%20Slides%20(Update%20on%20each%20section)-20220903/LA-Sc11-short.pdf)
     - 📄 [LA-Sc12-short.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Lecture%20Slides%20(Update%20on%20each%20section)-20220903/LA-Sc12-short.pdf)
     - 📄 [LA-Sc13-short.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Lecture%20Slides%20(Update%20on%20each%20section)-20220903/LA-Sc13-short.pdf)

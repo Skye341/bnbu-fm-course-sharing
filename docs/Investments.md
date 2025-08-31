@@ -1,6 +1,6 @@
 # Investments
 ## 文件列表
-- 📁 Exercises 2024fall/
+- 📁 [Exercises 2024fall](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Investments/Exercises%202024fall)/
     - 📄 [Exercise 4 solution.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Investments/Exercises%202024fall/Exercise%204%20solution.pdf)
     - 📄 [Exercises_1_Sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Investments/Exercises%202024fall/Exercises_1_Sol.pdf)
     - 📄 [Exercises_2_Sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Investments/Exercises%202024fall/Exercises_2_Sol.pdf)
@@ -15,7 +15,7 @@
     - 📄 [Lecture 6 Exercises_Sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Investments/Exercises%202024fall/Lecture%206%20Exercises_Sol.pdf)
     - 📄 [Lecture 7 Exercises.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Investments/Exercises%202024fall/Lecture%207%20Exercises.pdf)
     - 📄 [Lecture 7 Exercises_Sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Investments/Exercises%202024fall/Lecture%207%20Exercises_Sol.pdf)
-- 📁 Quizs 2024fall/
+- 📁 [Quizs 2024fall](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Investments/Quizs%202024fall)/
     - 📄 [Quiz_2024 (4).pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Investments/Quizs%202024fall/Quiz_2024%20(4).pdf)
     - 📄 [Quiz_2024_Sol (4).pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Investments/Quizs%202024fall/Quiz_2024_Sol%20(4).pdf)
     - 📄 [Test_2024.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Investments/Quizs%202024fall/Test_2024.pdf)

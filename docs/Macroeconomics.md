@@ -39,7 +39,7 @@
     - 📄 IPPTChap017.pdf
 - 📄 L1_ECON2113_T.Zhi v.1.0.pdf
 ## 文件列表
-- 📁 Exercise 2025spring/
+- 📁 [Exercise 2025spring](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/Exercise%202025spring)/
     - 📄 [Chapter 10 Exercises.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/Exercise%202025spring/Chapter%2010%20Exercises.pdf)
     - 📄 [Chapter 10 Exercises_Sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/Exercise%202025spring/Chapter%2010%20Exercises_Sol.pdf)
     - 📄 [Chapter 11 Exercises.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/Exercise%202025spring/Chapter%2011%20Exercises.pdf)
@@ -62,7 +62,7 @@
     - 📄 [Chapter 8 Exercises_Sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/Exercise%202025spring/Chapter%208%20Exercises_Sol.pdf)
     - 📄 [Chapter 9 Exercises.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/Exercise%202025spring/Chapter%209%20Exercises.pdf)
     - 📄 [Chapter 9 Exercises_Sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/Exercise%202025spring/Chapter%209%20Exercises_Sol.pdf)
-- 📁 notes/
+- 📁 [notes](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/notes)/
     - 📄 [IPPTChap001.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/notes/IPPTChap001.pdf)
     - 📄 [IPPTChap002.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/notes/IPPTChap002.pdf)
     - 📄 [IPPTChap003.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/notes/IPPTChap003.pdf)

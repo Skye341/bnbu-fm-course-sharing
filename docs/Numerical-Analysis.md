@@ -1,6 +1,6 @@
 # Numerical Analysis
 ## 文件列表
-- 📁 Homework/
+- 📁 [Homework](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Numerical%20Analysis/Homework)/
     - 📄 [NA Ass3 solution.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Numerical%20Analysis/Homework/NA%20Ass3%20solution.pdf)
     - 📄 [NA-A2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Numerical%20Analysis/Homework/NA-A2.pdf)
     - 📄 [NA-A3.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Numerical%20Analysis/Homework/NA-A3.pdf)
@@ -20,7 +20,7 @@
     - 📄 [NA8_2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Numerical%20Analysis/Homework/NA8_2.pdf)
     - 📄 [NA_4_2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Numerical%20Analysis/Homework/NA_4_2.pdf)
     - 📄 [numerical hw2 solution.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Numerical%20Analysis/Homework/numerical%20hw2%20solution.pdf)
-- 📁 InClass/
+- 📁 [InClass](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Numerical%20Analysis/InClass)/
     - 📄 [in-class1.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Numerical%20Analysis/InClass/in-class1.pdf)
     - 📄 [in-class10.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Numerical%20Analysis/InClass/in-class10.pdf)
     - 📄 [in-class2_2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Numerical%20Analysis/InClass/in-class2_2.pdf)
@@ -31,7 +31,7 @@
     - 📄 [in-class7.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Numerical%20Analysis/InClass/in-class7.pdf)
     - 📄 [in-class8.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Numerical%20Analysis/InClass/in-class8.pdf)
     - 📄 [in-class9.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Numerical%20Analysis/InClass/in-class9.pdf)
-- 📁 notes/
+- 📁 [notes](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Numerical%20Analysis/notes)/
     - 📄 [Lagrange_interpolation.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Numerical%20Analysis/notes/Lagrange_interpolation.pdf)
     - 📄 [Least_squares.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Numerical%20Analysis/notes/Least_squares.pdf)
     - 📄 [loss_of_significance.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Numerical%20Analysis/notes/loss_of_significance.pdf)

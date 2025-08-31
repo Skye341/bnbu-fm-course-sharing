@@ -1,16 +1,16 @@
 # Principles of Accounting
 ## 文件列表
-- 📁 Assignment  2023spring/
-    - 📁 Assignment 1/
+- 📁 [Assignment  2023spring](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Principles%20of%20Accounting%20I/Assignment%20%202023spring)/
+    - 📁 [Assignment 1](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Principles%20of%20Accounting%20I/Assignment%20%202023spring/Assignment%201)/
         - 📄 [POAI Assignment 1 Answer .docx](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Principles%20of%20Accounting%20I/Assignment%20%202023spring/Assignment%201/POAI%20Assignment%201%20Answer%20.docx)
         - 📄 [POAI Assignment-1_Questions_Finalized.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Principles%20of%20Accounting%20I/Assignment%20%202023spring/Assignment%201/POAI%20Assignment-1_Questions_Finalized.pdf)
-    - 📁 Assignment 2/
+    - 📁 [Assignment 2](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Principles%20of%20Accounting%20I/Assignment%20%202023spring/Assignment%202)/
         - 📄 [POAI Assignment-2_Questions_Finalized.docx](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Principles%20of%20Accounting%20I/Assignment%20%202023spring/Assignment%202/POAI%20Assignment-2_Questions_Finalized.docx)
         - 📄 [POAI Assignment-2_Solution_2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Principles%20of%20Accounting%20I/Assignment%20%202023spring/Assignment%202/POAI%20Assignment-2_Solution_2.pdf)
-    - 📁 Assignment 3/
+    - 📁 [Assignment 3](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Principles%20of%20Accounting%20I/Assignment%20%202023spring/Assignment%203)/
         - 📄 [POAI Assignment-3_ Solution.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Principles%20of%20Accounting%20I/Assignment%20%202023spring/Assignment%203/POAI%20Assignment-3_%20Solution.pdf)
         - 📄 [POAI Assignment-3_Questions_Finalized.docx](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Principles%20of%20Accounting%20I/Assignment%20%202023spring/Assignment%203/POAI%20Assignment-3_Questions_Finalized.docx)
-- 📁 Slides  2023spring/
+- 📁 [Slides  2023spring](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Principles%20of%20Accounting%20I/Slides%20%202023spring)/
     - 📄 [Ch 1 Accounting in Business_Ver1.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Principles%20of%20Accounting%20I/Slides%20%202023spring/Ch%201%20Accounting%20in%20Business_Ver1.pdf)
     - 📄 [Ch 10 Long-Term Assets_version 1_20230507145304.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Principles%20of%20Accounting%20I/Slides%20%202023spring/Ch%2010%20Long-Term%20Assets_version%201_20230507145304.pdf)
     - 📄 [Ch 11 Current Liabilities and Payroll Accounting_final version.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Principles%20of%20Accounting%20I/Slides%20%202023spring/Ch%2011%20Current%20Liabilities%20and%20Payroll%20Accounting_final%20version.pdf)

@@ -1,7 +1,7 @@
 # Mathematical Statistics
 
 ## 文件列表
-- 📁 Homework 2024spring/
+- 📁 [Homework 2024spring](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Homework%202024spring)/
     - 📄 [HW1.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Homework%202024spring/HW1.pdf)
     - 📄 [HW1_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Homework%202024spring/HW1_sol.pdf)
     - 📄 [HW2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Homework%202024spring/HW2.pdf)
@@ -18,10 +18,10 @@
     - 📄 [HW7_sol_2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Homework%202024spring/HW7_sol_2.pdf)
     - 📄 [HW8.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Homework%202024spring/HW8.pdf)
     - 📄 [HW8_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Homework%202024spring/HW8_sol.pdf)
-- 📁 quizs 2024spring/
+- 📁 [quizs 2024spring](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/quizs%202024spring)/
     - 📄 [test1_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/quizs%202024spring/test1_sol.pdf)
     - 📄 [Test2_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/quizs%202024spring/Test2_sol.pdf)
-- 📁 Weekly notes by Wei Zhang 2024spring/
+- 📁 [Weekly notes by Wei Zhang 2024spring](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Weekly%20notes%20by%20Wei%20Zhang%202024spring)/
     - 📄 [Week10_MS_3.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Weekly%20notes%20by%20Wei%20Zhang%202024spring/Week10_MS_3.pdf)
     - 📄 [Week12-13.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Weekly%20notes%20by%20Wei%20Zhang%202024spring/Week12-13.pdf)
     - 📄 [Week3_MS.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Weekly%20notes%20by%20Wei%20Zhang%202024spring/Week3_MS.pdf)

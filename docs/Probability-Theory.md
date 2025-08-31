@@ -3,7 +3,7 @@
 ## 
 
 ## 文件列表
-- 📁 Assignment/
+- 📁 [Assignment](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Probability%20Theory/Assignment)/
     - 📄 [PT_Assignment 1.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Probability%20Theory/Assignment/PT_Assignment%201.pdf)
     - 📄 [PT_Assignment 10.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Probability%20Theory/Assignment/PT_Assignment%2010.pdf)
     - 📄 [PT_Assignment 10_Sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Probability%20Theory/Assignment/PT_Assignment%2010_Sol.pdf)
@@ -30,7 +30,7 @@
     - 📄 [PT_Assignment 8_Sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Probability%20Theory/Assignment/PT_Assignment%208_Sol.pdf)
     - 📄 [PT_Assignment 9.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Probability%20Theory/Assignment/PT_Assignment%209.pdf)
     - 📄 [PT_Assignment 9_Sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Probability%20Theory/Assignment/PT_Assignment%209_Sol.pdf)
-- 📁 Notes and Slides/
+- 📁 [Notes and Slides](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Probability%20Theory/Notes%20and%20Slides)/
     - 📄 [AP_Chap 0_Introduction.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Probability%20Theory/Notes%20and%20Slides/AP_Chap%200_Introduction.pdf)
     - 📄 [PT Chap 1.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Probability%20Theory/Notes%20and%20Slides/PT%20Chap%201.pdf)
     - 📄 [PT Chap 2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Probability%20Theory/Notes%20and%20Slides/PT%20Chap%202.pdf)

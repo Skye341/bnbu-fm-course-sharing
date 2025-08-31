@@ -3,7 +3,7 @@
 ## 
 
 ## 文件列表
-- 📁 Assignment/
+- 📁 [Assignment](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Ordinary%20Differential%20Equations/Assignment)/
     - 📄 [HW1.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Ordinary%20Differential%20Equations/Assignment/HW1.pdf)
     - 📄 [HW10.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Ordinary%20Differential%20Equations/Assignment/HW10.pdf)
     - 📄 [HW10_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Ordinary%20Differential%20Equations/Assignment/HW10_sol.pdf)

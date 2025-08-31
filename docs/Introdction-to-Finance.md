@@ -3,7 +3,7 @@
 ## 
 
 ## 文件列表
-- 📁 Exercises 2023fall/
+- 📁 [Exercises 2023fall](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introdction%20to%20Finance/Exercises%202023fall)/
     - 📄 [Chapter 10 Exercises.docx](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introdction%20to%20Finance/Exercises%202023fall/Chapter%2010%20Exercises.docx)
     - 📄 [Chapter 10 Exercises_Sol.docx](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introdction%20to%20Finance/Exercises%202023fall/Chapter%2010%20Exercises_Sol.docx)
     - 📄 [Chapter 2 Exercises.docx](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introdction%20to%20Finance/Exercises%202023fall/Chapter%202%20Exercises.docx)
@@ -22,7 +22,7 @@
     - 📄 [Chapter 8 Exercises_Sol.docx](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introdction%20to%20Finance/Exercises%202023fall/Chapter%208%20Exercises_Sol.docx)
     - 📄 [Chapter 9 Exercises.docx](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introdction%20to%20Finance/Exercises%202023fall/Chapter%209%20Exercises.docx)
     - 📄 [Chapter 9 Exercises_Sol.docx](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introdction%20to%20Finance/Exercises%202023fall/Chapter%209%20Exercises_Sol.docx)
-- 📁 Slides 2023fall/
+- 📁 [Slides 2023fall](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introdction%20to%20Finance/Slides%202023fall)/
     - 📄 [Chapter 01.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introdction%20to%20Finance/Slides%202023fall/Chapter%2001.pdf)
     - 📄 [Chapter 02.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introdction%20to%20Finance/Slides%202023fall/Chapter%2002.pdf)
     - 📄 [Chapter 03.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introdction%20to%20Finance/Slides%202023fall/Chapter%2003.pdf)

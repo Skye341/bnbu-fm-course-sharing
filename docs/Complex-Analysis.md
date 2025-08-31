@@ -3,7 +3,7 @@
 classwork是Dr. Wong的优良传统。
 
 ## 文件列表
-- 📁 Classwork/
+- 📁 [Classwork](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Complex%20Analysis/Classwork)/
     - 📄 [Complex Analysis classwork (10-4-2024).docx](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Complex%20Analysis/Classwork/Complex%20Analysis%20classwork%20(10-4-2024).docx)
     - 📄 [Complex Analysis classwork (13-3-2024).docx](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Complex%20Analysis/Classwork/Complex%20Analysis%20classwork%20(13-3-2024).docx)
     - 📄 [Complex Analysis classwork (17-4-2024).docx](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Complex%20Analysis/Classwork/Complex%20Analysis%20classwork%20(17-4-2024).docx)
@@ -14,10 +14,10 @@ classwork是Dr. Wong的优良传统。
     - 📄 [Complex Analysis classwork (28-2-2024).docx](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Complex%20Analysis/Classwork/Complex%20Analysis%20classwork%20(28-2-2024).docx)
     - 📄 [Complex Analysis classwork (6-3-2024).docx](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Complex%20Analysis/Classwork/Complex%20Analysis%20classwork%20(6-3-2024).docx)
     - 📄 [Complex Analysis classwork (8-4-2024).docx](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Complex%20Analysis/Classwork/Complex%20Analysis%20classwork%20(8-4-2024).docx)
-- 📁 Exams/
+- 📁 [Exams](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Complex%20Analysis/Exams)/
     - 📄 [Complex Analysis (2023-2024) Midterm 1.docx](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Complex%20Analysis/Exams/Complex%20Analysis%20(2023-2024)%20Midterm%201.docx)
     - 📄 [Complex Analysis (2023-2024) Midterm 2.docx](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Complex%20Analysis/Exams/Complex%20Analysis%20(2023-2024)%20Midterm%202.docx)
-- 📁 Homework/
+- 📁 [Homework](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Complex%20Analysis/Homework)/
     - 📄 [Complex Analysis 2023-2024 Homework 4.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Complex%20Analysis/Homework/Complex%20Analysis%202023-2024%20Homework%204.pdf)
     - 📄 [Complex Analysis 2023-2024 Homework 5.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Complex%20Analysis/Homework/Complex%20Analysis%202023-2024%20Homework%205.pdf)
     - 📄 [Complex Analysis 2023-2024 Homework 6.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Complex%20Analysis/Homework/Complex%20Analysis%202023-2024%20Homework%206.pdf)

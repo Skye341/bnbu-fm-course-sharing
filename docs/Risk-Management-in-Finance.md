@@ -1,17 +1,17 @@
 # Risk Management in Finance
 ## 文件列表
-- 📁 Assignment 2025spring/
-    - 📁 Assignment 1/
+- 📁 [Assignment 2025spring](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Risk%20Management%20in%20Finance/Assignment%202025spring)/
+    - 📁 [Assignment 1](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Risk%20Management%20in%20Finance/Assignment%202025spring/Assignment%201)/
         - 📄 [Appendix1(1).png](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Risk%20Management%20in%20Finance/Assignment%202025spring/Assignment%201/Appendix1(1).png)
         - 📄 [Appendix2(1).png](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Risk%20Management%20in%20Finance/Assignment%202025spring/Assignment%201/Appendix2(1).png)
         - 📄 [Appendix3(1).png](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Risk%20Management%20in%20Finance/Assignment%202025spring/Assignment%201/Appendix3(1).png)
         - 📄 [FRM_Assignment 1 - Solutions_Update.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Risk%20Management%20in%20Finance/Assignment%202025spring/Assignment%201/FRM_Assignment%201%20-%20Solutions_Update.pdf)
         - 📄 [FRM_Assignment 1(1).pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Risk%20Management%20in%20Finance/Assignment%202025spring/Assignment%201/FRM_Assignment%201(1).pdf)
-    - 📁 Assignment 2/
+    - 📁 [Assignment 2](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Risk%20Management%20in%20Finance/Assignment%202025spring/Assignment%202)/
         - 📄 [FRM_Assignment 2(1).pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Risk%20Management%20in%20Finance/Assignment%202025spring/Assignment%202/FRM_Assignment%202(1).pdf)
         - 📄 [FRM_Assignment 2_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Risk%20Management%20in%20Finance/Assignment%202025spring/Assignment%202/FRM_Assignment%202_sol.pdf)
         - 📄 [微信截图_20250412171320.png](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Risk%20Management%20in%20Finance/Assignment%202025spring/Assignment%202/微信截图_20250412171320.png)
-    - 📁 Assignment 3/
+    - 📁 [Assignment 3](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Risk%20Management%20in%20Finance/Assignment%202025spring/Assignment%203)/
         - 📄 [code.png](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Risk%20Management%20in%20Finance/Assignment%202025spring/Assignment%203/code.png)
         - 📄 [FRM3.py](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Risk%20Management%20in%20Finance/Assignment%202025spring/Assignment%203/FRM3.py)
         - 📄 [FRM_Assignment 3.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Risk%20Management%20in%20Finance/Assignment%202025spring/Assignment%203/FRM_Assignment%203.pdf)

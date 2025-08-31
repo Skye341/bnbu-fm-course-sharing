@@ -4,7 +4,7 @@ repo_url: https://github.com/FM-Course/bnbu-fm-course-sharing
 
 nav:
   - 首页: index.md
-  - 贡献: contribute.md
+  -食用方法: usage.md  - 贡献: contribute.md
   - 收录课程名录: list.md
   - 致谢: thanks.md
   - Major Require:

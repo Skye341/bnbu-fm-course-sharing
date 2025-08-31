@@ -2,7 +2,7 @@
 
 智大概在前八周就可以讲完整门课，所以后面的时间他会拿一些文章放到课上来讨论。
 ## 文件列表
-- 📁 Exercises 2024fall/
+- 📁 [Exercises 2024fall](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exercises%202024fall)/
     - 📄 [Chapter 1 Exercises.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exercises%202024fall/Chapter%201%20Exercises.pdf)
     - 📄 [Chapter 1 Exercises_Sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exercises%202024fall/Chapter%201%20Exercises_Sol.pdf)
     - 📄 [Chapter 10 Exercises.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exercises%202024fall/Chapter%2010%20Exercises.pdf)
@@ -23,13 +23,13 @@
     - 📄 [Chapter 8 Exercises_Sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exercises%202024fall/Chapter%208%20Exercises_Sol.pdf)
     - 📄 [Chapter 9 Exercises.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exercises%202024fall/Chapter%209%20Exercises.pdf)
     - 📄 [Chapter 9 Exercises_Sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exercises%202024fall/Chapter%209%20Exercises_Sol.pdf)
-- 📁 notes 2024fall/
+- 📁 [notes 2024fall](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/notes%202024fall)/
     - 📄 [L1_ECON2103_T.Zhi_2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/notes%202024fall/L1_ECON2103_T.Zhi_2.pdf)
     - 📄 [Lecture 1.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/notes%202024fall/Lecture%201.pdf)
     - 📄 [Lecture 2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/notes%202024fall/Lecture%202.pdf)
     - 📄 [Lecture 3.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/notes%202024fall/Lecture%203.pdf)
     - 📄 [Lecture 4.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/notes%202024fall/Lecture%204.pdf)
-- 📁 Sherry's notes 2024fall/
+- 📁 [Sherry's notes 2024fall](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Sherry's%20notes%202024fall)/
     - 📄 [Chapter 1.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Sherry's%20notes%202024fall/Chapter%201.pdf)
     - 📄 [Chapter 2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Sherry's%20notes%202024fall/Chapter%202.pdf)
     - 📄 [Chapter 3.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Sherry's%20notes%202024fall/Chapter%203.pdf)

@@ -1,6 +1,6 @@
 # Applied Stochastic Process
 ## 文件列表
-- 📁 Assignments 2024fall/
+- 📁 [Assignments 2024fall](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Assignments%202024fall)/
     - 📄 [Additional Examples on Martingales.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Assignments%202024fall/Additional%20Examples%20on%20Martingales.pdf)
     - 📄 [Solution 7.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Assignments%202024fall/Solution%207.pdf)
     - 📄 [SPA_Assignment 1 (Pre I).pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Assignments%202024fall/SPA_Assignment%201%20(Pre%20I).pdf)
@@ -17,7 +17,7 @@
     - 📄 [SPA_Assignment 6_Sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Assignments%202024fall/SPA_Assignment%206_Sol.pdf)
     - 📄 [SPA_Assignment 8 (BM I).pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Assignments%202024fall/SPA_Assignment%208%20(BM%20I).pdf)
     - 📄 [SPA_Assignment 8_Sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Assignments%202024fall/SPA_Assignment%208_Sol.pdf)
-- 📁 Quizzes 2024fall/
+- 📁 [Quizzes 2024fall](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Quizzes%202024fall)/
     - 📄 [1_ASP_midterm.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Quizzes%202024fall/1_ASP_midterm.pdf)
     - 📄 [ASP Quiz 2(1).pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Quizzes%202024fall/ASP%20Quiz%202(1).pdf)
     - 📄 [ASP_Quiz.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Quizzes%202024fall/ASP_Quiz.pdf)

@@ -1,7 +1,7 @@
 # Introduction to Econometrics
 ## 文件列表
-- 📁 Exercise 2024fall/
-    - 📁 Exercise 2 data/
+- 📁 [Exercise 2024fall](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall)/
+    - 📁 [Exercise 2 data](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%202%20data)/
         - 📄 [ceosal2.RData](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%202%20data/ceosal2.RData)
         - 📄 [ceosal2.txt](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%202%20data/ceosal2.txt)
         - 📄 [ceosal2.xls](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%202%20data/ceosal2.xls)
@@ -12,7 +12,7 @@
         - 📄 [SLEEP75_description.txt](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%202%20data/SLEEP75_description.txt)
         - 📄 [solution.py](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%202%20data/solution.py)
         - 📄 [Untitled-1.r](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%202%20data/Untitled-1.r)
-    - 📁 Exercise 3 data/
+    - 📁 [Exercise 3 data](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%203%20data)/
         - 📄 [ceosal2.RData](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%203%20data/ceosal2.RData)
         - 📄 [ceosal2.txt](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%203%20data/ceosal2.txt)
         - 📄 [ceosal2.xls](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%203%20data/ceosal2.xls)
@@ -21,7 +21,7 @@
         - 📄 [discrim.txt](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%203%20data/discrim.txt)
         - 📄 [discrim.xls](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%203%20data/discrim.xls)
         - 📄 [discrim_description.txt](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%203%20data/discrim_description.txt)
-    - 📁 Exercise 4 data/
+    - 📁 [Exercise 4 data](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%204%20data)/
         - 📄 [401ksubs.RData](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%204%20data/401ksubs.RData)
         - 📄 [401ksubs.txt](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%204%20data/401ksubs.txt)
         - 📄 [401ksubs.xls](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%204%20data/401ksubs.xls)
@@ -30,7 +30,7 @@
         - 📄 [discrim.txt](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%204%20data/discrim.txt)
         - 📄 [discrim.xls](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%204%20data/discrim.xls)
         - 📄 [discrim_description.txt](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%204%20data/discrim_description.txt)
-    - 📁 Exercise 5 data/
+    - 📁 [Exercise 5 data](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%205%20data)/
         - 📄 [401ksubs.RData](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%205%20data/401ksubs.RData)
         - 📄 [401ksubs.txt](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%205%20data/401ksubs.txt)
         - 📄 [401ksubs.xls](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Exercise%205%20data/401ksubs.xls)
@@ -77,7 +77,7 @@
     - 📄 [Class exercises 08_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Class%20exercises%2008_sol.pdf)
     - 📄 [Class exercises 09.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Class%20exercises%2009.pdf)
     - 📄 [Class exercises 09_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Exercise%202024fall/Class%20exercises%2009_sol.pdf)
-- 📁 Quizzes 2024fall/
+- 📁 [Quizzes 2024fall](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Quizzes%202024fall)/
     - 📄 [Quiz 1_2024.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Quizzes%202024fall/Quiz%201_2024.pdf)
     - 📄 [Quiz 1_2024_Sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Quizzes%202024fall/Quiz%201_2024_Sol.pdf)
     - 📄 [Quiz 2_2024_full.docx](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Quizzes%202024fall/Quiz%202_2024_full.docx)

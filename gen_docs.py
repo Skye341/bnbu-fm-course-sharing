@@ -63,14 +63,14 @@ def readme_process():
             if item.name.lower() == 'readme.md':
                 continue
             
+            relatedDIR = str(item.relative_to(current_dir)).replace(' ', '%20').replace('\\','/')
             if item.is_dir():
                 # 处理目录
-                items.append(f"{indent}- 📁 {item.name}/")
+                items.append(f"{indent}- 📁 [{item.name}](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/{relatedDIR})/")
                 # 递归处理子目录
                 items.extend(generate_recursive_file_list(item, base_path, indent_level + 1))
             else:
                 # 处理文件
-                relatedDIR = str(item.relative_to(current_dir)).replace(' ', '%20').replace('\\','/')
                 items.append(f"{indent}- 📄 [{item.name}](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/{relatedDIR})")
         
         # 如果是顶级目录且没有内容，添加提示
@@ -119,7 +119,7 @@ def generate_mkdocs():
     
     with open(Path(__file__).parent / "docs" / "list.md", 'w', encoding='utf-8') as f:
         f.write(courseMarkDownContent)
-    mkdocsContent = "site_name: BNBU-FM课程攻略\ntheme: readthedocs\nrepo_url: https://github.com/FM-Course/bnbu-fm-course-sharing \n\nnav:\n  - 首页: index.md\n  - 贡献: contribute.md\n  - 收录课程名录: list.md\n  - 致谢: thanks.md\n"
+    mkdocsContent = "site_name: BNBU-FM课程攻略\ntheme: readthedocs\nrepo_url: https://github.com/FM-Course/bnbu-fm-course-sharing \n\nnav:\n  - 首页: index.md\n  -食用方法: usage.md  - 贡献: contribute.md\n  - 收录课程名录: list.md\n  - 致谢: thanks.md\n"
 
     
     for i, category in enumerate(categories):

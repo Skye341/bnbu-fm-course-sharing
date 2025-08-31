@@ -1,6 +1,6 @@
 # Time Series for Finance and Macroeconomics
 ## 文件列表
-- 📁 Exercise 2025spring/
+- 📁 [Exercise 2025spring](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Exercise%202025spring)/
     - 📄 [ARIMA procedure.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Exercise%202025spring/ARIMA%20procedure.pdf)
     - 📄 [Chapter 9 Exercises_Sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Exercise%202025spring/Chapter%209%20Exercises_Sol.pdf)
     - 📄 [Chapter2 Exercises.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Exercise%202025spring/Chapter2%20Exercises.pdf)
@@ -18,7 +18,7 @@
     - 📄 [Chapter8 Exercises.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Exercise%202025spring/Chapter8%20Exercises.pdf)
     - 📄 [Chapter8-sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Exercise%202025spring/Chapter8-sol.pdf)
     - 📄 [Chapter9 Exercises.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Exercise%202025spring/Chapter9%20Exercises.pdf)
-- 📁 Quizzes 2025spring/
+- 📁 [Quizzes 2025spring](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Quizzes%202025spring)/
     - 📄 [Quiz 2_18May2025.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Quizzes%202025spring/Quiz%202_18May2025.pdf)
     - 📄 [Quiz 2_18May2025_Sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Quizzes%202025spring/Quiz%202_18May2025_Sol.pdf)
     - 📄 [quizsol.png](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Quizzes%202025spring/quizsol.png)
