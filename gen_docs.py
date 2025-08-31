@@ -119,7 +119,7 @@ def generate_mkdocs():
     
     with open(Path(__file__).parent / "docs" / "list.md", 'w', encoding='utf-8') as f:
         f.write(courseMarkDownContent)
-    mkdocsContent = "site_name: BNBU-FM课程攻略\ntheme: readthedocs\nrepo_url: https://github.com/FM-Course/bnbu-fm-course-sharing \n\nnav:\n  - 首页: index.md\n  - 食用方法: usage.md  - 贡献: contribute.md\n  - 收录课程名录: list.md\n  - 致谢: thanks.md\n"
+    mkdocsContent = "site_name: BNBU-FM课程攻略\ntheme: readthedocs\nrepo_url: https://github.com/FM-Course/bnbu-fm-course-sharing \n\nnav:\n  - 首页: index.md\n  - 食用方法: usage.md\n  - 贡献: contribute.md\n  - 收录课程名录: list.md\n  - 致谢: thanks.md\n"
 
     
     for i, category in enumerate(categories):
