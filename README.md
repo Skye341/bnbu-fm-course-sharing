@@ -23,6 +23,12 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家
 
 如因上述内容为项目造成任何不利影响，责任由资源上传者负担。如果你认为本仓库的一些文件侵犯了您的权益，请 [向我们发送邮件](mailto:fm-course@outlook.com) 。我们将会从仓库中彻底清除这些文件。
 
+## 版权声明
+
+本项目所有内容采用 [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-hans) 许可证。
+
+所有资料版权归原作者及北师香港浸会大学所有，**不得用于商业目的**。
+
 ## 致谢
 本项目受[浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/)与[清华大学计算机系课程攻略](https://rekcarc-tsc-uht.readthedocs.io/en/latest/)的启发，在此表示感谢！
 

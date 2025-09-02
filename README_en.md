@@ -24,7 +24,15 @@ The following content is unsuitable for upload. If you believe the absence of su
 
 If the project suffers any adverse effects due to the above content, the responsibility lies with the uploader. If you believe certain files in this repository infringe on your rights, please [email us](mailto:fm-course@outlook.com). We will remove them promptly.  
 
+## License
+
+All content in this project is licensed under the [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).
+
+All materials are copyrighted by the original authors and Beijing Normal HongKong Baptist University. **Commercial use is prohibited**.
+
 ## Acknowledgments  
+This project is inspired by the [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/) and the [清华大学计算机系课程攻略](https://rekcarc-tsc-uht.readthedocs.io/en/latest/), and we would like to express our gratitude here!
+
 See the [Acknowledgments List](./docs/thanks.md).  
 
-If this project has helped you, please consider giving it a star ⭐!  
+If this project has helped you, please consider giving it a star ⭐!
