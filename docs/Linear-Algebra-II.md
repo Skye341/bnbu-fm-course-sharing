@@ -1,5 +1,20 @@
 # Linear Algebra II
 ## 文件列表
+- 📁 [assignment 25spring](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/assignment%2025spring)/
+    - 📄 [LAII_HW1.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/assignment%2025spring/LAII_HW1.pdf)
+    - 📄 [LAII_HW1_solution.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/assignment%2025spring/LAII_HW1_solution.pdf)
+    - 📄 [Linear Algebra II HW 10 (2024-2025) solution.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/assignment%2025spring/Linear%20Algebra%20II%20HW%2010%20(2024-2025)%20solution.pdf)
+    - 📄 [Linear Algebra II HW 10.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/assignment%2025spring/Linear%20Algebra%20II%20HW%2010.pdf)
+    - 📄 [Linear Algebra II HW 11 (2024-2025) solution.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/assignment%2025spring/Linear%20Algebra%20II%20HW%2011%20(2024-2025)%20solution.pdf)
+    - 📄 [Linear Algebra II HW 2 (2024-2025).pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/assignment%2025spring/Linear%20Algebra%20II%20HW%202%20(2024-2025).pdf)
+    - 📄 [Linear Algebra II HW 4 (2024-2025).pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/assignment%2025spring/Linear%20Algebra%20II%20HW%204%20(2024-2025).pdf)
+    - 📄 [Linear Algebra II HW 6.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/assignment%2025spring/Linear%20Algebra%20II%20HW%206.pdf)
+    - 📄 [Linear Algebra II HW 7 (2024-2025) solution.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/assignment%2025spring/Linear%20Algebra%20II%20HW%207%20(2024-2025)%20solution.pdf)
+    - 📄 [Linear Algebra II HW 7.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/assignment%2025spring/Linear%20Algebra%20II%20HW%207.pdf)
+    - 📄 [Linear Algebra II HW 8 (2024-2025) solution - Copy.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/assignment%2025spring/Linear%20Algebra%20II%20HW%208%20(2024-2025)%20solution%20-%20Copy.pdf)
+    - 📄 [Linear Algebra II HW 8.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/assignment%2025spring/Linear%20Algebra%20II%20HW%208.pdf)
+    - 📄 [Linear Algebra II HW 9 (2024-2025) solution.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/assignment%2025spring/Linear%20Algebra%20II%20HW%209%20(2024-2025)%20solution.pdf)
+    - 📄 [Linear Algebra II HW 9.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/assignment%2025spring/Linear%20Algebra%20II%20HW%209.pdf)
 - 📁 [Homework 2023spring](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/Homework%202023spring)/
     - 📄 [HW1.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/Homework%202023spring/HW1.pdf)
     - 📄 [HW1s.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/Homework%202023spring/HW1s.pdf)
@@ -38,7 +53,10 @@
     - 📄 [Week8a.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/Notes%20%202023spring/Week8a.pdf)
     - 📄 [Week8b.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/Notes%20%202023spring/Week8b.pdf)
     - 📄 [Week9.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/Notes%20%202023spring/Week9.pdf)
+- 📁 [Quiz 25spring](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/Quiz%2025spring)/
+    - 📄 [Midterm1_Sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/Quiz%2025spring/Midterm1_Sol.pdf)
 - 📁 [Quizs & Exams  2023spring](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/Quizs%20&%20Exams%20%202023spring)/
     - 📄 [midterm_LAsol_2023.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/Quizs%20&%20Exams%20%202023spring/midterm_LAsol_2023.pdf)
     - 📄 [Q34_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/Quizs%20&%20Exams%20%202023spring/Q34_sol.pdf)
     - 📄 [quiz1+2 solution.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/Quizs%20&%20Exams%20%202023spring/quiz1+2%20solution.pdf)
+- 📄 [Wong's Note LA2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20II/Wong's%20Note%20LA2.pdf)

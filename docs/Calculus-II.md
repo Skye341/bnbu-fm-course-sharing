@@ -1,5 +1,28 @@
 # Calculus II
 ## 文件列表
+- 📁 [assignment 25spring](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/assignment%2025spring)/
+    - 📄 [1.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/assignment%2025spring/1.pdf)
+    - 📄 [10.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/assignment%2025spring/10.pdf)
+    - 📄 [10_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/assignment%2025spring/10_sol.pdf)
+    - 📄 [11.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/assignment%2025spring/11.pdf)
+    - 📄 [11_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/assignment%2025spring/11_sol.pdf)
+    - 📄 [1_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/assignment%2025spring/1_sol.pdf)
+    - 📄 [2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/assignment%2025spring/2.pdf)
+    - 📄 [2_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/assignment%2025spring/2_sol.pdf)
+    - 📄 [3.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/assignment%2025spring/3.pdf)
+    - 📄 [3_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/assignment%2025spring/3_sol.pdf)
+    - 📄 [4.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/assignment%2025spring/4.pdf)
+    - 📄 [4_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/assignment%2025spring/4_sol.pdf)
+    - 📄 [5.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/assignment%2025spring/5.pdf)
+    - 📄 [5_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/assignment%2025spring/5_sol.pdf)
+    - 📄 [6.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/assignment%2025spring/6.pdf)
+    - 📄 [6_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/assignment%2025spring/6_sol.pdf)
+    - 📄 [7.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/assignment%2025spring/7.pdf)
+    - 📄 [7_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/assignment%2025spring/7_sol.pdf)
+    - 📄 [8.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/assignment%2025spring/8.pdf)
+    - 📄 [8_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/assignment%2025spring/8_sol.pdf)
+    - 📄 [9.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/assignment%2025spring/9.pdf)
+    - 📄 [9_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/assignment%2025spring/9_sol.pdf)
 - 📁 [Assignments 2023spring](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Assignments%202023spring)/
     - 📄 [HW_MATH1083_10.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Assignments%202023spring/HW_MATH1083_10.pdf)
     - 📄 [HW_MATH1083_10_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Assignments%202023spring/HW_MATH1083_10_sol.pdf)
@@ -34,10 +57,20 @@
     - 📄 [Week_7_Calculus_II.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Notes%202023spring/Week_7_Calculus_II.pdf)
     - 📄 [Week_8_Calculus_II_Partial_derivatives.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Notes%202023spring/Week_8_Calculus_II_Partial_derivatives.pdf)
     - 📄 [Week_9_Calculus_II_Partial_derivatives_2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Notes%202023spring/Week_9_Calculus_II_Partial_derivatives_2.pdf)
+- 📁 [Quiz 25spring](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Quiz%2025spring)/
+    - 📄 [Midterm_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Quiz%2025spring/Midterm_sol.pdf)
+    - 📄 [quiz_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Quiz%2025spring/quiz_sol.pdf)
 - 📁 [Quizs and Exams 2023spring](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Quizs%20and%20Exams%202023spring)/
     - 📄 [Mid_term_Math1038_sol_s.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Quizs%20and%20Exams%202023spring/Mid_term_Math1038_sol_s.pdf)
     - 📄 [Quiz1_solution_s.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Quizs%20and%20Exams%202023spring/Quiz1_solution_s.pdf)
     - 📄 [Quiz2_solution_s.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Quizs%20and%20Exams%202023spring/Quiz2_solution_s.pdf)
+- 📁 [Slides 25spring](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Slides%2025spring)/
+    - 📄 [Calculus_II_Chap 1.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Slides%2025spring/Calculus_II_Chap%201.pdf)
+    - 📄 [Calculus_II_Chap 2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Slides%2025spring/Calculus_II_Chap%202.pdf)
+    - 📄 [Calculus_II_Chap 3.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Slides%2025spring/Calculus_II_Chap%203.pdf)
+    - 📄 [Calculus_II_Chap 4.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Slides%2025spring/Calculus_II_Chap%204.pdf)
+    - 📄 [Calculus_II_Chap 5.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Slides%2025spring/Calculus_II_Chap%205.pdf)
+    - 📄 [Calculus_II_Chap 7_part i.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Slides%2025spring/Calculus_II_Chap%207_part%20i.pdf)
 - 📁 [Study Materials provided by Monica](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Study%20Materials%20provided%20by%20Monica)/
     - 📄 [Cal vector例题.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Study%20Materials%20provided%20by%20Monica/Cal%20vector例题.pdf)
     - 📄 [Extra exercise with solutions for calculus 2.docx](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Study%20Materials%20provided%20by%20Monica/Extra%20exercise%20with%20solutions%20for%20calculus%202.docx)
