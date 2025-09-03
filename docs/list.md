@@ -25,6 +25,8 @@
 - Complex Analysis (MATH4093)
 - Partial Differential Equations (MATH3033)
 - Vector Calculus and Complex Analysis (MATH3183)
+- Optimization (OR4023)
+- Introduction to financial Derivatives (FINM3013)
 ## Free Elective
 ## General Education
 ## University Core

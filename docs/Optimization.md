@@ -1,0 +1,29 @@
+# Optimization
+## 文件列表
+- 📁 [Homework 25spring](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Homework%2025spring)/
+    - 📄 [hw1(3).pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Homework%2025spring/hw1(3).pdf)
+    - 📄 [hw1solutions(1).pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Homework%2025spring/hw1solutions(1).pdf)
+    - 📄 [hw2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Homework%2025spring/hw2.pdf)
+    - 📄 [hw2solutions.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Homework%2025spring/hw2solutions.pdf)
+    - 📄 [hw3.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Homework%2025spring/hw3.pdf)
+    - 📄 [hw3solutions.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Homework%2025spring/hw3solutions.pdf)
+    - 📄 [hw4.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Homework%2025spring/hw4.pdf)
+    - 📄 [hw4solutions.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Homework%2025spring/hw4solutions.pdf)
+    - 📄 [hw5-2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Homework%2025spring/hw5-2.pdf)
+    - 📄 [hw5.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Homework%2025spring/hw5.pdf)
+    - 📄 [hw6-2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Homework%2025spring/hw6-2.pdf)
+    - 📄 [hw6.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Homework%2025spring/hw6.pdf)
+- 📁 [Quiz 25spring](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Quiz%2025spring)/
+    - 📄 [quiz1_solution.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Quiz%2025spring/quiz1_solution.pdf)
+    - 📄 [quiz2_solu.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Quiz%2025spring/quiz2_solu.pdf)
+- 📁 [Slides](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Slides)/
+    - 📄 [Multi Dimensional Unconstrained Optimization.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Slides/Multi%20Dimensional%20Unconstrained%20Optimization.pdf)
+    - 📄 [One-Dimensional Unconstrained Optimization I.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Slides/One-Dimensional%20Unconstrained%20Optimization%20I.pdf)
+    - 📄 [One-Dimensional Unconstrained Optimization II.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Slides/One-Dimensional%20Unconstrained%20Optimization%20II.pdf)
+    - 📄 [Optimality Conditions for Constrained Optimization Problems.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Slides/Optimality%20Conditions%20for%20Constrained%20Optimization%20Problems.pdf)
+    - 📄 [Optimization-Part2-Mathematical foundations I.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Slides/Optimization-Part2-Mathematical%20foundations%20I.pdf)
+    - 📄 [Optimization-Part2-Mathematical foundations II.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Slides/Optimization-Part2-Mathematical%20foundations%20II.pdf)
+    - 📄 [Optimization-Part5 - Nonlinear Least-Squares Data Fitting.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Slides/Optimization-Part5%20-%20Nonlinear%20Least-Squares%20Data%20Fitting.pdf)
+    - 📄 [Optimization-Part6 - Basics of Constrained Optimization.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Slides/Optimization-Part6%20-%20Basics%20of%20Constrained%20Optimization.pdf)
+    - 📄 [Optimization-Part7 - Penalty and Barrier Methods.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Slides/Optimization-Part7%20-%20Penalty%20and%20Barrier%20Methods.pdf)
+    - 📄 [Some Optimization Models.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Optimization/Slides/Some%20Optimization%20Models.pdf)
