@@ -24,6 +24,7 @@
 - Numerical Analysis (MATH4083)
 - Complex Analysis (MATH4093)
 - Partial Differential Equations (MATH3033)
+- Vector Calculus and Complex Analysis (MATH3183)
 ## Free Elective
 ## General Education
 ## University Core
