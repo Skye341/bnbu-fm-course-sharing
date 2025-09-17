@@ -2,6 +2,17 @@
 
 智大概在前八周就可以讲完整门课，所以后面的时间他会拿一些文章放到课上来讨论。
 ## 文件列表
+- 📁 [Exams 24fall](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exams%2024fall)/
+    - 📄 [quiz one 1.jpg](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exams%2024fall/quiz%20one%201.jpg)
+    - 📄 [quiz one 2.jpg](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exams%2024fall/quiz%20one%202.jpg)
+    - 📄 [quiz two 1.jpg](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exams%2024fall/quiz%20two%201.jpg)
+    - 📄 [quiz two 2.jpg](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exams%2024fall/quiz%20two%202.jpg)
+    - 📄 [Quiz+1_2025_Sol.docx](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exams%2024fall/Quiz+1_2025_Sol.docx)
+    - 📄 [Quiz+2_2025_Sol.docx](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exams%2024fall/Quiz+2_2025_Sol.docx)
+    - 📄 [test1.jpg](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exams%2024fall/test1.jpg)
+    - 📄 [test2.jpg](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exams%2024fall/test2.jpg)
+    - 📄 [test3.jpg](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exams%2024fall/test3.jpg)
+    - 📄 [test4.jpg](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exams%2024fall/test4.jpg)
 - 📁 [Exercises 2024fall](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exercises%202024fall)/
     - 📄 [Chapter 1 Exercises.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exercises%202024fall/Chapter%201%20Exercises.pdf)
     - 📄 [Chapter 1 Exercises_Sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exercises%202024fall/Chapter%201%20Exercises_Sol.pdf)
@@ -31,9 +42,15 @@
     - 📄 [Lecture 4.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/notes%202024fall/Lecture%204.pdf)
 - 📁 [Sherry's notes 2024fall](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Sherry's%20notes%202024fall)/
     - 📄 [Chapter 1.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Sherry's%20notes%202024fall/Chapter%201.pdf)
+    - 📄 [Chapter 10.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Sherry's%20notes%202024fall/Chapter%2010.pdf)
     - 📄 [Chapter 2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Sherry's%20notes%202024fall/Chapter%202.pdf)
     - 📄 [Chapter 3.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Sherry's%20notes%202024fall/Chapter%203.pdf)
     - 📄 [Chapter 4.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Sherry's%20notes%202024fall/Chapter%204.pdf)
+    - 📄 [Chapter 5.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Sherry's%20notes%202024fall/Chapter%205.pdf)
+    - 📄 [Chapter 6.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Sherry's%20notes%202024fall/Chapter%206.pdf)
+    - 📄 [Chapter 7.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Sherry's%20notes%202024fall/Chapter%207.pdf)
+    - 📄 [Chapter 8.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Sherry's%20notes%202024fall/Chapter%208.pdf)
+    - 📄 [Chapter 9.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Sherry's%20notes%202024fall/Chapter%209.pdf)
 - 📄 [game theory in enterpreneurialship.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/game%20theory%20in%20enterpreneurialship.pdf)
 - 📄 [General Equilibrium.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/General%20Equilibrium.pdf)
 - 📄 [Lai et al (2020) A reflection on the trading of pollution rights via land use exchanges and controls_ Coase Theorems, Coase’s land use parable, and Schumpeterian innovations.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Lai%20et%20al%20(2020)%20A%20reflection%20on%20the%20trading%20of%20pollution%20rights%20via%20land%20use%20exchanges%20and%20controls_%20Coase%20Theorems,%20Coase’s%20land%20use%20parable,%20and%20Schumpeterian%20innovations.pdf)

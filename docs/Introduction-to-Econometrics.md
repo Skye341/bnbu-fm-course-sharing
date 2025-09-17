@@ -93,4 +93,5 @@
 - 📄 [chapter_7.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/chapter_7.pdf)
 - 📄 [chapter_8.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/chapter_8.pdf)
 - 📄 [chapter_9.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/chapter_9.pdf)
+- 📄 [Project 24fall.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Project%2024fall.pdf)
 - 📄 [高斯马尔科夫定理.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/高斯马尔科夫定理.pdf)

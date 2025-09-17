@@ -27,6 +27,7 @@
 - 📄 [Box-Jenkins Methodology.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Box-Jenkins%20Methodology.pdf)
 - 📄 [course introduction.pptx](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/course%20introduction.pptx)
 - 📄 [Modeling Volatility.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Modeling%20Volatility.pdf)
+- 📄 [Project 25spring.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Project%2025spring.pdf)
 - 📄 [time_series_chapter_1.ppt](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/time_series_chapter_1.ppt)
 - 📄 [time_series_chapter_2 .pptm](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/time_series_chapter_2%20.pptm)
 - 📄 [time_series_chapter_3.pptm](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/time_series_chapter_3.pptm)
