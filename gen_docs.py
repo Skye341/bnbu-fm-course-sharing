@@ -52,11 +52,7 @@ def readme_process():
             print(f"处理 {readme_path} 时出错: {e}")
 
     def generate_recursive_file_list(folder : Path, base_path : Path, indent_level=0):
-
-        """递归生成文件列表部分的Markdown内容"""
         items = []
-        indent = "    " * indent_level  # 4个空格作为一级缩进
-        
         # 遍历文件夹内容（按字母顺序排序）
         for item in sorted(folder.iterdir(), key=lambda x: (not x.is_dir(), x.name.lower())):
             # 忽略readme.md文件本身
@@ -67,15 +63,22 @@ def readme_process():
                 continue
             
             relatedDIR = str(item.relative_to(current_dir)).replace(' ', '%20').replace('\\','/')
+            indent = ''.join(['&nbsp']*4*indent_level)
             if item.is_dir():
                 # 处理目录
-                items.append(f"{indent}- 📁 [{item.name}](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/{relatedDIR})/")
+                
+                items.append("<details>")
+                items.append(f"<summary><a href=\"https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/{relatedDIR}/\">{indent}📁 {item.name}</a></summary>")
+                # items.append("<ul>")
                 # 递归处理子目录
                 items.extend(generate_recursive_file_list(item, base_path, indent_level + 1))
+                # items.append("</ul>")
+                items.append("</details>")
             else:
                 # 处理文件
-                items.append(f"{indent}- 📄 [{item.name}](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/{relatedDIR})")
-        
+                # items.append(f"<li>{indent}<a href=\"https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/{relatedDIR}\">📄 {item.name}</a></li>")
+                items.append(f"{indent} • <a href=\"https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/{relatedDIR}\">📄 {item.name}</a><br>")
+                pass
         # 如果是顶级目录且没有内容，添加提示
         if indent_level == 0 and not items:
             items.append("- (空文件夹)")
