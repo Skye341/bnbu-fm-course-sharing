@@ -96,14 +96,17 @@
 &nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Quizzes%202024fall/Test2024.docx">📄 Test2024.docx</a><br>
 &nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Quizzes%202024fall/Test2024_Sol(1).docx">📄 Test2024_Sol(1).docx</a><br>
 </details>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Chapter%201.pdf">📄 Chapter 1.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Chapter%202.pdf">📄 Chapter 2.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Chapter%203.pdf">📄 Chapter 3.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Chapter%204.pdf">📄 Chapter 4.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/chapter_5.pdf">📄 chapter_5.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/chapter_6.pdf">📄 chapter_6.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/chapter_7.pdf">📄 chapter_7.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/chapter_8.pdf">📄 chapter_8.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/chapter_9.pdf">📄 chapter_9.pdf</a><br>
+<details>
+<summary><a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Slides%2024fall/">📁 Slides 24fall</a></summary>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Slides%2024fall/Chapter%201.pdf">📄 Chapter 1.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Slides%2024fall/Chapter%202.pdf">📄 Chapter 2.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Slides%2024fall/Chapter%203.pdf">📄 Chapter 3.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Slides%2024fall/Chapter%204.pdf">📄 Chapter 4.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Slides%2024fall/chapter_5.pdf">📄 chapter_5.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Slides%2024fall/chapter_6.pdf">📄 chapter_6.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Slides%2024fall/chapter_7.pdf">📄 chapter_7.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Slides%2024fall/chapter_8.pdf">📄 chapter_8.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Slides%2024fall/chapter_9.pdf">📄 chapter_9.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Slides%2024fall/高斯马尔科夫定理.pdf">📄 高斯马尔科夫定理.pdf</a><br>
+</details>
  • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/Project%2024fall.pdf">📄 Project 24fall.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Econometrics/高斯马尔科夫定理.pdf">📄 高斯马尔科夫定理.pdf</a><br>

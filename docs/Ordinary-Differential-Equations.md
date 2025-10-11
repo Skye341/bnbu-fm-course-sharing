@@ -26,11 +26,15 @@
 &nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Ordinary%20Differential%20Equations/Assignment/HW9.pdf">📄 HW9.pdf</a><br>
 &nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Ordinary%20Differential%20Equations/Assignment/HW9_sol.pdf">📄 HW9_sol.pdf</a><br>
 </details>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Ordinary%20Differential%20Equations/2.3%202.5补充%202023fall%20by%20TA.pdf">📄 2.3 2.5补充 2023fall by TA.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Ordinary%20Differential%20Equations/chap2.pdf">📄 chap2.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Ordinary%20Differential%20Equations/chap3.pdf">📄 chap3.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Ordinary%20Differential%20Equations/chap5.pdf">📄 chap5.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Ordinary%20Differential%20Equations/Common_Derivatives_Integrals.pdf">📄 Common_Derivatives_Integrals.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Ordinary%20Differential%20Equations/Integration%20Technique.pdf">📄 Integration Technique.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Ordinary%20Differential%20Equations/Ode%202023Fall%20chapter1-3%20by%20TA.pdf">📄 Ode 2023Fall chapter1-3 by TA.pdf</a><br>
+<details>
+<summary><a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Ordinary%20Differential%20Equations/Supplementary%20Materials/">📁 Supplementary Materials</a></summary>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Ordinary%20Differential%20Equations/Supplementary%20Materials/2.3%202.5补充%202023fall%20by%20TA.pdf">📄 2.3 2.5补充 2023fall by TA.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Ordinary%20Differential%20Equations/Supplementary%20Materials/chap2.pdf">📄 chap2.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Ordinary%20Differential%20Equations/Supplementary%20Materials/chap3.pdf">📄 chap3.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Ordinary%20Differential%20Equations/Supplementary%20Materials/chap5.pdf">📄 chap5.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Ordinary%20Differential%20Equations/Supplementary%20Materials/Common_Derivatives_Integrals.pdf">📄 Common_Derivatives_Integrals.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Ordinary%20Differential%20Equations/Supplementary%20Materials/Integration%20Technique.pdf">📄 Integration Technique.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Ordinary%20Differential%20Equations/Supplementary%20Materials/Ode%202023Fall%20chapter1-3%20by%20TA.pdf">📄 Ode 2023Fall chapter1-3 by TA.pdf</a><br>
+</details>
+ • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Ordinary%20Differential%20Equations/ODE2023.pdf">📄 ODE2023.pdf</a><br>
  • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Ordinary%20Differential%20Equations/ODE_old.pdf">📄 ODE_old.pdf</a><br>

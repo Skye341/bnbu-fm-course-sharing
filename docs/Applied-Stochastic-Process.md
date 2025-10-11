@@ -20,6 +20,15 @@
 &nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Assignments%202024fall/SPA_Assignment%208_Sol.pdf">📄 SPA_Assignment 8_Sol.pdf</a><br>
 </details>
 <details>
+<summary><a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Notes%2024fall/">📁 Notes 24fall</a></summary>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Notes%2024fall/SPA_Chap%201_Preliminaries.pdf">📄 SPA_Chap 1_Preliminaries.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Notes%2024fall/SPA_Chap%202_Discrete%20MC_Part%20I.pdf">📄 SPA_Chap 2_Discrete MC_Part I.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Notes%2024fall/SPA_Chap%202_Discrete%20MC_Part%20II.pdf">📄 SPA_Chap 2_Discrete MC_Part II.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Notes%2024fall/SPA_Chap%203_Poisson%20Processes.pdf">📄 SPA_Chap 3_Poisson Processes.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Notes%2024fall/SPA_Chap%204_Martingales.pdf">📄 SPA_Chap 4_Martingales.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Notes%2024fall/SPA_Chap%205_Brownian%20motion.pdf">📄 SPA_Chap 5_Brownian motion.pdf</a><br>
+</details>
+<details>
 <summary><a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Quizzes%202024fall/">📁 Quizzes 2024fall</a></summary>
 &nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Quizzes%202024fall/1_ASP_midterm.pdf">📄 1_ASP_midterm.pdf</a><br>
 &nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Quizzes%202024fall/ASP%20Quiz%202(1).pdf">📄 ASP Quiz 2(1).pdf</a><br>
@@ -28,9 +37,3 @@
 &nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Quizzes%202024fall/Solution_to_ASP_Quiz1_v1(1).pdf">📄 Solution_to_ASP_Quiz1_v1(1).pdf</a><br>
 &nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/Quizzes%202024fall/Solution_to_Midterm_of_ASP.pdf">📄 Solution_to_Midterm_of_ASP.pdf</a><br>
 </details>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/SPA_Chap%201_Preliminaries.pdf">📄 SPA_Chap 1_Preliminaries.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/SPA_Chap%202_Discrete%20MC_Part%20I.pdf">📄 SPA_Chap 2_Discrete MC_Part I.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/SPA_Chap%202_Discrete%20MC_Part%20II.pdf">📄 SPA_Chap 2_Discrete MC_Part II.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/SPA_Chap%203_Poisson%20Processes.pdf">📄 SPA_Chap 3_Poisson Processes.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/SPA_Chap%204_Martingales.pdf">📄 SPA_Chap 4_Martingales.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Applied%20Stochastic%20Process/SPA_Chap%205_Brownian%20motion.pdf">📄 SPA_Chap 5_Brownian motion.pdf</a><br>

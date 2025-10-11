@@ -1,4 +1,6 @@
 # Numerical Analysis
+
+这门课程缺了数值积分和微分两部分的Notes，是老师当时没放ispace
 ## 文件列表
 <details>
 <summary><a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Numerical%20Analysis/Homework/">📁 Homework</a></summary>

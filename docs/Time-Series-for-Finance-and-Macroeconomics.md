@@ -28,16 +28,19 @@
 &nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Quizzes%202025spring/Test2025(1).pdf">📄 Test2025(1).pdf</a><br>
 &nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Quizzes%202025spring/Test2025_Sol(1).pdf">📄 Test2025_Sol(1).pdf</a><br>
 </details>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Box-Jenkins%20Methodology.pdf">📄 Box-Jenkins Methodology.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/course%20introduction.pptx">📄 course introduction.pptx</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Modeling%20Volatility.pdf">📄 Modeling Volatility.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Project%2025spring.pdf">📄 Project 25spring.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/time_series_chapter_1.ppt">📄 time_series_chapter_1.ppt</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/time_series_chapter_2%20.pptm">📄 time_series_chapter_2 .pptm</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/time_series_chapter_3.pptm">📄 time_series_chapter_3.pptm</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/time_series_chapter_4%20v2.pptm">📄 time_series_chapter_4 v2.pptm</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/time_series_chapter_5%20v2.ppt">📄 time_series_chapter_5 v2.ppt</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/time_series_chapter_6%20v2.pptm">📄 time_series_chapter_6 v2.pptm</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/time_series_chapter_7%20v2.ppt">📄 time_series_chapter_7 v2.ppt</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/time_series_chapter_8%20v2.ppt">📄 time_series_chapter_8 v2.ppt</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/time_series_chapter_9%20v2.pptm">📄 time_series_chapter_9 v2.pptm</a><br>
+<details>
+<summary><a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Slides%2025spring/">📁 Slides 25spring</a></summary>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Slides%2025spring/Box-Jenkins%20Methodology.pdf">📄 Box-Jenkins Methodology.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Slides%2025spring/course%20introduction.pptx">📄 course introduction.pptx</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Slides%2025spring/Modeling%20Volatility.pdf">📄 Modeling Volatility.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Slides%2025spring/Project%2025spring.pdf">📄 Project 25spring.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Slides%2025spring/time_series_chapter_1.ppt">📄 time_series_chapter_1.ppt</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Slides%2025spring/time_series_chapter_2%20.pptm">📄 time_series_chapter_2 .pptm</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Slides%2025spring/time_series_chapter_3.pptm">📄 time_series_chapter_3.pptm</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Slides%2025spring/time_series_chapter_4%20v2.pptm">📄 time_series_chapter_4 v2.pptm</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Slides%2025spring/time_series_chapter_5%20v2.ppt">📄 time_series_chapter_5 v2.ppt</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Slides%2025spring/time_series_chapter_6%20v2.pptm">📄 time_series_chapter_6 v2.pptm</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Slides%2025spring/time_series_chapter_7%20v2.ppt">📄 time_series_chapter_7 v2.ppt</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Slides%2025spring/time_series_chapter_8%20v2.ppt">📄 time_series_chapter_8 v2.ppt</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Time%20Series%20for%20Finance%20and%20Macroeconomics/Slides%2025spring/time_series_chapter_9%20v2.pptm">📄 time_series_chapter_9 v2.pptm</a><br>
+</details>

@@ -21,6 +21,15 @@
 &nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Homework%202024spring/HW8_sol.pdf">📄 HW8_sol.pdf</a><br>
 </details>
 <details>
+<summary><a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Notes%2024spring/">📁 Notes 24spring</a></summary>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Notes%2024spring/chap1.pdf">📄 chap1.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Notes%2024spring/Chap2.pdf">📄 Chap2.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Notes%2024spring/Chap3.pdf">📄 Chap3.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Notes%2024spring/Chap4.pdf">📄 Chap4.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Notes%2024spring/Chap5.pdf">📄 Chap5.pdf</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Notes%2024spring/PT-chap6.pdf">📄 PT-chap6.pdf</a><br>
+</details>
+<details>
 <summary><a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/quizs%202024spring/">📁 quizs 2024spring</a></summary>
 &nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/quizs%202024spring/test1_sol.pdf">📄 test1_sol.pdf</a><br>
 &nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/quizs%202024spring/Test2_sol.pdf">📄 Test2_sol.pdf</a><br>
@@ -35,9 +44,3 @@
 &nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Weekly%20notes%20by%20Wei%20Zhang%202024spring/Week8_MS.pdf">📄 Week8_MS.pdf</a><br>
 &nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Weekly%20notes%20by%20Wei%20Zhang%202024spring/Week9_2.pdf">📄 Week9_2.pdf</a><br>
 </details>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/chap1.pdf">📄 chap1.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Chap2.pdf">📄 Chap2.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Chap3.pdf">📄 Chap3.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Chap4.pdf">📄 Chap4.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/Chap5.pdf">📄 Chap5.pdf</a><br>
- • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Mathematical%20Statistics/PT-chap6.pdf">📄 PT-chap6.pdf</a><br>
