@@ -1,3 +1,10 @@
+---
+title: "Calculus I"
+code: "MATH1073"
+category: "MR"
+rank: 1
+---
+
 # Calculus I
 ## 文件列表
 <details>

@@ -3,14 +3,14 @@
 #
 # author: Jinsui Liu
 # email: 3125124390@qq.com
-# date: 2025/07/14
+# date: 2025/10/11
 #
 ######################################
 
 import os
 from pathlib import Path
-import shutil
-from pandas import read_csv, DataFrame
+import re
+
 
 def readme_process():
     """
@@ -104,43 +104,70 @@ def readme_process():
 
 
 def generate_mkdocs():
-    courseDf = read_csv('./CourseList.csv', index_col=None)
-    category_mapping = {'MR': 0, 'ME': 1, 'FE': 2, 'GE': 3, 'UC': 4, 'Other': 5}
-    courseDf['Category'] = courseDf['Category'].map(category_mapping)
-    # courseDf.fillna(value=None, inplace=True)
-    courseDf.sort_values(["Category", "Course Code"], ascending=True, inplace=True)
-    
-    courseList = [[],[],[],[],[],[]]
-    for i in range(len(courseDf)):
-        courseList[courseDf.loc[i]['Category']].append((courseDf.loc[i]['Name'], courseDf.loc[i]['Course Code']))
+    # generate course information list
+    course_info = []
+    for item in Path(__file__).parent.iterdir():
+        if item.is_dir() and item.name.lower() != '.git' and item.name.lower() != 'docs':
+            readme_path = item / 'README.md'
+        else:
+            continue
 
-    categories = ['Major Require','Major Elective','Free Elective','General Education','University Core','Other Meterials']
+        try:
+            with open(readme_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+        except Exception as e:
+            print(f"读取 {readme_path} 失败: {e}")
+            continue
+        
+        yaml_pattern = r'^---\s*\n.*?\n---\s*\n'
+        match = re.match(yaml_pattern, content, re.DOTALL).string
+        match = match.split("\n")
 
-    courseMarkDownContent = "# 收录课程名录\n"
-    for i, type in enumerate(categories):
-        courseMarkDownContent += f"## {type}\n"
-        for c in courseList[i]:
-            courseMarkDownContent += f"- {c[0]} ({c[1] if c[1] != '0' else '-'})\n"
+
+        title = match[1].split('"')[1]
+        code =  match[2].split('"')[1]
+        category = match[3].split('"')[1]
+        rank = match[4].split(':')[1]
+
+        course_info.append({"title": title,
+                            "code": code,
+                            "category": category,
+                            "rank": int(rank)})
+    course_info = sorted(course_info, key=lambda x: x['rank'])
     
+    # write docs/list.md
+    list_str = '# 收录课程名录\n|Course Title|Course Code|Category|\n|-|-|-|\n'
+    list_str += '\n'.join(f"|{course['title']}|{course['code']}|{course['category']}|" for course in course_info)
     with open(Path(__file__).parent / "docs" / "list.md", 'w', encoding='utf-8') as f:
-        f.write(courseMarkDownContent)
-    mkdocsContent = "site_name: BNBU-FM课程攻略\ntheme: readthedocs\nrepo_url: https://github.com/FM-Course/bnbu-fm-course-sharing \n\nnav:\n  - 首页: index.md\n  - 食用方法: usage.md\n  - 贡献: contribute.md\n  - 收录课程名录: list.md\n  - 致谢: thanks.md\n"
+        f.write(list_str)
 
-    
-    for i, category in enumerate(categories):
-        if len(courseList[i]) != 0:
-            mkdocsContent += f"  - {category}:\n"
-        # mkdocsContent += f"  - {category.replace(' ', '-')}:\n"
+    # write mkdocs.yml
+    ranks = [course['rank'] for course in course_info]
+    category_titles = ['Major Require', 'Major Elective', 'Free Elective', 
+                       'General Education', 'University Core', 'Other Materials']
+    mkdocsContent = """site_name: BNBU-FM课程攻略
+theme: readthedocs
+repo_url: https://github.com/FM-Course/bnbu-fm-course-sharing
 
-        for course in courseList[i]:
-            
-            DashedName = str(course[0]).replace(' ', '-')
-            mkdocsContent += f"    - {course[0]}: {DashedName}.md\n"
-    
+nav:
+  - 首页: index.md
+  - 食用方法: usage.md
+  - 贡献: contribute.md
+  - 收录课程名录: list.md
+  - 致谢: thanks.md
+"""
+    for i in range(6):
+        if any([_between(r, i*100, (i+1) * 100) for r in ranks]):
+            mkdocsContent += f"  - {category_titles[i]}:\n"
+        for course in course_info:
+            if  _between(course['rank'], i*100, (i+1) * 100):
+                mkdocsContent += f"    - {course['title']}: {course['title'].replace(' ', '-')}.md\n"
+
     with open(Path(__file__).parent / "mkdocs.yml", 'w', encoding='utf-8') as f:
         f.write(mkdocsContent)
-    
 
+def _between(x,a,b):
+    return x > a and x < b
 
 
 if __name__ == "__main__":

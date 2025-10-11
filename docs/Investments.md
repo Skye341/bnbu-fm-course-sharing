@@ -1,3 +1,10 @@
+---
+title: "Investments"
+code: "FINM3093"
+category: "MR"
+rank: 15
+---
+
 # Investments
 ## 文件列表
 <details>

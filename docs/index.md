@@ -7,6 +7,8 @@
 
 
 ## 贡献
+该项目的GitHub仓库地址是：https://github.com/FM-Course/bnbu-fm-course-sharing
+
 Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家的关注、维护和贡献，才是让这个攻略继续存在的动力~
 
 如果希望匿名贡献，可以 email 至 [此邮箱](mailto:fm-course@outlook.com)，在主题中注明FM课程攻略即可。

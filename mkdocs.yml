@@ -1,6 +1,6 @@
 site_name: BNBU-FM课程攻略
 theme: readthedocs
-repo_url: https://github.com/FM-Course/bnbu-fm-course-sharing 
+repo_url: https://github.com/FM-Course/bnbu-fm-course-sharing
 
 nav:
   - 首页: index.md
@@ -14,27 +14,27 @@ nav:
     - Principles of Accounting I: Principles-of-Accounting-I.md
     - Calculus II: Calculus-II.md
     - Linear Algebra II: Linear-Algebra-II.md
-    - C++ Programming Language: C++-Programming-Language.md
     - Ordinary Differential Equations: Ordinary-Differential-Equations.md
-    - Introdction to Finance: Introdction-to-Finance.md
     - Probability Theory: Probability-Theory.md
+    - Introdction to Finance: Introdction-to-Finance.md
+    - C++ Programming Language: C++-Programming-Language.md
     - Mathematical Statistics: Mathematical-Statistics.md
     - Data Structure: Data-Structure.md
-    - Advanced Financial Mathematics: Advanced-Financial-Mathematics.md
-    - Applied Stochastic Process: Applied-Stochastic-Process.md
     - Financial Mathematics: Financial-Mathematics.md
+    - Applied Stochastic Process: Applied-Stochastic-Process.md
     - Introduction to Econometrics: Introduction-to-Econometrics.md
     - Investments: Investments.md
-    - Macroeconomics: Macroeconomics.md
     - Microeconomics: Microeconomics.md
+    - Advanced Financial Mathematics: Advanced-Financial-Mathematics.md
     - Risk Management in Finance: Risk-Management-in-Finance.md
     - Time Series for Finance and Macroeconomics: Time-Series-for-Finance-and-Macroeconomics.md
+    - Macroeconomics: Macroeconomics.md
   - Major Elective:
+    - Introduction to financial Derivatives: Introduction-to-financial-Derivatives.md
     - Numerical Analysis: Numerical-Analysis.md
+    - Vector Calculus and Complex Analysis: Vector-Calculus-and-Complex-Analysis.md
     - Complex Analysis: Complex-Analysis.md
     - Partial Differential Equations: Partial-Differential-Equations.md
-    - Vector Calculus and Complex Analysis: Vector-Calculus-and-Complex-Analysis.md
     - Optimization: Optimization.md
-    - Introduction to financial Derivatives: Introduction-to-financial-Derivatives.md
-  - Other Meterials:
+  - Other Materials:
     - 选课攻略: 选课攻略.md
