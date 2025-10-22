@@ -5,4 +5,4 @@ category: "MR"
 rank: 2
 ---
 
-# LInear Algebra I
+# Linear Algebra I

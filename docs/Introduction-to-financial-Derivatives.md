@@ -5,7 +5,7 @@ category: "ME"
 rank: 101
 ---
 
-# Introduction to financial Derivatives
+# Introduction to Financial Derivatives
 ## 文件列表
 <details>
 <summary><a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Introduction%20to%20Financial%20Derivatives/Exercises/">📁 Exercises</a></summary>

@@ -5,7 +5,7 @@ category: "MR"
 rank: 2
 ---
 
-# LInear Algebra I
+# Linear Algebra I
 ## 文件列表
 <details>
 <summary><a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Homework%2022fall/">📁 Homework 22fall</a></summary>

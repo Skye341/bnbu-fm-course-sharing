@@ -5,4 +5,4 @@ category: "ME"
 rank: 101
 ---
 
-# Introduction to financial Derivatives
+# Introduction to Financial Derivatives
