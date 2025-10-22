@@ -21,7 +21,6 @@
 |Risk Management in Finance|FINM3033|MR|
 |Time Series for Finance and Macroeconomics|FINM3133|MR|
 |Macroeconomics|ECON2113|MR|
-|Introduction to financial Derivatives|FINM3013|ME|
 |Numerical Analysis|MATH4083|ME|
 |Vector Calculus and Complex Analysis|MATH3183|ME|
 |Complex Analysis|MATH4093|ME|
