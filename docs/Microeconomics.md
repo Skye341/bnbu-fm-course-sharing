@@ -10,19 +10,6 @@ rank: 16
 智大概在前八周就可以讲完整门课，所以后面的时间他会拿一些文章放到课上来讨论。
 ## 文件列表
 <details>
-<summary><a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exams%2024fall/">📁 Exams 24fall</a></summary>
-&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exams%2024fall/quiz%20one%201.jpg">📄 quiz one 1.jpg</a><br>
-&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exams%2024fall/quiz%20one%202.jpg">📄 quiz one 2.jpg</a><br>
-&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exams%2024fall/quiz%20two%201.jpg">📄 quiz two 1.jpg</a><br>
-&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exams%2024fall/quiz%20two%202.jpg">📄 quiz two 2.jpg</a><br>
-&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exams%2024fall/Quiz+1_2025_Sol.docx">📄 Quiz+1_2025_Sol.docx</a><br>
-&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exams%2024fall/Quiz+2_2025_Sol.docx">📄 Quiz+2_2025_Sol.docx</a><br>
-&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exams%2024fall/test1.jpg">📄 test1.jpg</a><br>
-&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exams%2024fall/test2.jpg">📄 test2.jpg</a><br>
-&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exams%2024fall/test3.jpg">📄 test3.jpg</a><br>
-&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exams%2024fall/test4.jpg">📄 test4.jpg</a><br>
-</details>
-<details>
 <summary><a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exercises%202024fall/">📁 Exercises 2024fall</a></summary>
 &nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exercises%202024fall/Chapter%201%20Exercises.pdf">📄 Chapter 1 Exercises.pdf</a><br>
 &nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Microeconomics/Exercises%202024fall/Chapter%201%20Exercises_Sol.pdf">📄 Chapter 1 Exercises_Sol.pdf</a><br>

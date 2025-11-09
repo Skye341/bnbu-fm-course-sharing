@@ -10,6 +10,19 @@ rank: 20
 
 ## 文件列表
 <details>
+<summary><a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/Exams%2025spring/">📁 Exams 25spring</a></summary>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/Exams%2025spring/quiz%20one%201.jpg">📄 quiz one 1.jpg</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/Exams%2025spring/quiz%20one%202.jpg">📄 quiz one 2.jpg</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/Exams%2025spring/quiz%20two%201.jpg">📄 quiz two 1.jpg</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/Exams%2025spring/quiz%20two%202.jpg">📄 quiz two 2.jpg</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/Exams%2025spring/Quiz+1_2025_Sol.docx">📄 Quiz+1_2025_Sol.docx</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/Exams%2025spring/Quiz+2_2025_Sol.docx">📄 Quiz+2_2025_Sol.docx</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/Exams%2025spring/test1.jpg">📄 test1.jpg</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/Exams%2025spring/test2.jpg">📄 test2.jpg</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/Exams%2025spring/test3.jpg">📄 test3.jpg</a><br>
+&nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/Exams%2025spring/test4.jpg">📄 test4.jpg</a><br>
+</details>
+<details>
 <summary><a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/Exercise%202025spring/">📁 Exercise 2025spring</a></summary>
 &nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/Exercise%202025spring/Chapter%2010%20Exercises.pdf">📄 Chapter 10 Exercises.pdf</a><br>
 &nbsp&nbsp&nbsp&nbsp • <a href="https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Macroeconomics/Exercise%202025spring/Chapter%2010%20Exercises_Sol.pdf">📄 Chapter 10 Exercises_Sol.pdf</a><br>
