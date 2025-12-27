@@ -27,4 +27,7 @@
 |Complex Analysis|MATH4093|ME|
 |Partial Differential Equations|MATH3033|ME|
 |Optimization|OR4023|ME|
+|Advanced Probability|STAT2023|ME|
+|Numerical and Simulation Techniques in Finance|STAT2023|ME|
+|Investment Practice|GCAP3193|GE|
 |选课攻略|-|Other|
