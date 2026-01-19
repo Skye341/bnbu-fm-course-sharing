@@ -10,6 +10,7 @@
 import os
 from pathlib import Path
 import re
+from typing import List
 
 
 def readme_process():
@@ -29,7 +30,7 @@ def readme_process():
                 content = f.read()
             
             # 生成递归的文件列表部分
-            file_list_section = generate_recursive_file_list(folder, base_path=folder)
+            file_list_section: str = generate_recursive_file_list(folder, base_path=folder)
             
             # 替换或添加文件列表部分
             if content.endswith('\n'):
@@ -51,43 +52,32 @@ def readme_process():
         except Exception as e:
             print(f"处理 {readme_path} 时出错: {e}")
 
-    def generate_recursive_file_list(folder : Path, base_path : Path, indent_level=0):
-        items = []
-        # 遍历文件夹内容（按字母顺序排序）
+    def generate_recursive_file_list(folder : Path, base_path : Path, indent_level=0) -> str:
+        items: List[str] = []
         for item in sorted(folder.iterdir(), key=lambda x: (not x.is_dir(), x.name.lower())):
-            # 忽略readme.md文件本身
             if item.name.lower() == 'readme.md':
                 continue
-            # 遇到隐藏文件(夹)跳过
             if item.name.lower().startswith('.'):
                 continue
             
             relatedDIR = str(item.relative_to(current_dir)).replace(' ', '%20').replace('\\','/')
             indent = ''.join(['&nbsp']*4*indent_level)
             if item.is_dir():
-                # 处理目录
-                
                 items.append("<details>")
                 items.append(f"<summary><a href=\"https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/{relatedDIR}/\">{indent}📁 {item.name}</a></summary>")
-                # items.append("<ul>")
-                # 递归处理子目录
-                items.extend(generate_recursive_file_list(item, base_path, indent_level + 1))
-                # items.append("</ul>")
+                items.append(generate_recursive_file_list(item, base_path, indent_level + 1))
                 items.append("</details>")
             else:
-                # 处理文件
-                # items.append(f"<li>{indent}<a href=\"https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/{relatedDIR}\">📄 {item.name}</a></li>")
                 items.append(f"{indent} • <a href=\"https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/{relatedDIR}\">📄 {item.name}</a><br>")
-                pass
-        # 如果是顶级目录且没有内容，添加提示
+        
         if indent_level == 0 and not items:
             items.append("- (空文件夹)")
         
-        # 如果是顶级目录，添加标题
+        result = "\n".join(items)
         if indent_level == 0:
-            return "## 文件列表\n" + "\n".join(items) + "\n"
+            return "## 文件列表\n" + result + "\n"
         else:
-            return items
+            return result
 
     current_dir = Path(__file__).parent
 
@@ -104,7 +94,24 @@ def readme_process():
 
 
 def generate_mkdocs():
-    # generate course information list
+    def parse_rank(rank_str):
+        rank_str = rank_str.strip()
+        if '.' in rank_str:
+            parts = rank_str.split('.')
+            if len(parts) == 3:
+                return (int(parts[0]), int(parts[1]), int(parts[2]))
+        rank_int = int(rank_str)
+        rank_padded = f"{rank_int:03d}"
+        return (int(rank_padded[0]), int(rank_padded[1]), int(rank_padded[2]))
+
+    def rank_to_version(rank_str):
+        rank_str = rank_str.strip()
+        if '.' in rank_str:
+            return rank_str
+        rank_int = int(rank_str)
+        rank_padded = f"{rank_int:03d}"
+        return f"{rank_padded[0]}.{rank_padded[1]}.{rank_padded[2]}"
+
     course_info = []
     for item in Path(__file__).parent.iterdir():
         if item.is_dir() and item.name.lower() != '.git' and item.name.lower() != 'docs':
@@ -118,54 +125,64 @@ def generate_mkdocs():
         except Exception as e:
             print(f"读取 {readme_path} 失败: {e}")
             continue
-        
+
         yaml_pattern = r'^---\s*\n.*?\n---\s*\n'
-        match = re.match(yaml_pattern, content, re.DOTALL).string
-        match = match.split("\n")
+        match = re.match(yaml_pattern, content, re.DOTALL)
+        if match != None:
+            match = match.string
+            match = match.split("\n")
+            title = match[1].split('"')[1]
+            code =  match[2].split('"')[1]
+            category = match[3].split('"')[1]
+            rank_raw = match[4].split(':')[1]
 
-
-        title = match[1].split('"')[1]
-        code =  match[2].split('"')[1]
-        category = match[3].split('"')[1]
-        rank = match[4].split(':')[1]
+        rank_parsed = parse_rank(rank_raw)
+        rank_version = rank_to_version(rank_raw)
 
         course_info.append({"title": title,
                             "code": code,
                             "category": category,
-                            "rank": int(rank)})
-    course_info = sorted(course_info, key=lambda x: x['rank'])
-    
-    # write docs/list.md
+                            "rank_tuple": rank_parsed,
+                            "rank": rank_version})
+
+    course_info = sorted(course_info, key=lambda x: x['rank_tuple'])
+
+    category_titles = {
+        'MR': 'Major Require',
+        'ME': 'Major Elective',
+        'FE': 'Free Elective',
+        'GE': 'General Education',
+        'UC': 'University Core',
+        'Other': 'Other Materials'
+    }
+
     list_str = '# 收录课程名录\n|Course Title|Course Code|Category|\n|-|-|-|\n'
     list_str += '\n'.join(f"|{course['title']}|{course['code']}|{course['category']}|" for course in course_info)
     with open(Path(__file__).parent / "docs" / "list.md", 'w', encoding='utf-8') as f:
         f.write(list_str)
 
-    # write mkdocs.yml
-    ranks = [course['rank'] for course in course_info]
-    category_titles = ['Major Require', 'Major Elective', 'Free Elective', 
-                       'General Education', 'University Core', 'Other Materials']
-    mkdocsContent = """site_name: BNBU-FM课程攻略
-theme: readthedocs
-repo_url: https://github.com/FM-Course/bnbu-fm-course-sharing
+    mkdocsContent = (
+        "site_name: BNBU-FM课程攻略\n"
+        "theme: readthedocs\n"
+        "repo_url: https://github.com/FM-Course/bnbu-fm-course-sharing\n"
+        "\n"
+        "nav:\n"
+        "  - 首页: index.md\n"
+        "  - 食用方法: usage.md\n"
+        "  - 贡献: contribute.md\n"
+        "  - 收录课程名录: list.md\n"
+        "  - 致谢: thanks.md\n"
+    )
 
-nav:
-  - 首页: index.md
-  - 食用方法: usage.md
-  - 贡献: contribute.md
-  - 收录课程名录: list.md
-  - 致谢: thanks.md
-"""
-    for i in range(6):
-        if any([_between(r, i*100, (i+1) * 100) for r in ranks]):
-            mkdocsContent += f"  - {category_titles[i]}:\n"
-        for course in course_info:
-            if  _between(course['rank'], i*100, (i+1) * 100):
+    for cat_code in ['MR', 'ME', 'FE', 'GE', 'UC', 'Other']:
+        cat_courses = [c for c in course_info if c['category'] == cat_code]
+        if cat_courses:
+            mkdocsContent += f"  - {category_titles[cat_code]}:\n"
+            for course in cat_courses:
                 mkdocsContent += f"    - {course['title']}: {course['title'].replace(' ', '-')}.md\n"
 
     with open(Path(__file__).parent / "mkdocs.yml", 'w', encoding='utf-8') as f:
         f.write(mkdocsContent)
-
 def _between(x,a,b):
     return x > a and x < b
 

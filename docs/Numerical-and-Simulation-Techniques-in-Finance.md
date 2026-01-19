@@ -2,7 +2,7 @@
 title: "Numerical and Simulation Techniques in Finance"
 code: "STAT2023"
 category: "ME"
-rank: 141
+rank: 2.5.1
 ---
 
 # Numerical and Simulation Techniques in Finance

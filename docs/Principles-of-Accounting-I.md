@@ -2,7 +2,7 @@
 title: "Principles of Accounting I"
 code: "ACCT2003"
 category: "MR"
-rank: 3
+rank: 1.1.3
 ---
 
 # Principles of Accounting

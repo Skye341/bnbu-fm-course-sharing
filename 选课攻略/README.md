@@ -2,7 +2,7 @@
 title: "选课攻略"
 code: "-"
 category: "Other"
-rank: 501
+rank: 6.1.1
 ---
 
 # Mordred's 选课指南 (第5版)

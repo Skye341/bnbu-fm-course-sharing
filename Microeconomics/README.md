@@ -2,7 +2,7 @@
 title: "Microeconomics"
 code: "ECON2103"
 category: "MR"
-rank: 16
+rank: 1.2.6
 ---
 
 # Microeconomics

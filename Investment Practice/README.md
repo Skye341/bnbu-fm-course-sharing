@@ -2,7 +2,7 @@
 title: "Investment Practice"
 code: "GCAP3193"
 category: "GE"
-rank: 341
+rank: 4.5.1
 ---
 
 # Investment Practice

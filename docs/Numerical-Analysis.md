@@ -2,7 +2,7 @@
 title: "Numerical Analysis"
 code: "MATH4083"
 category: "ME"
-rank: 102
+rank: 2.1.2
 ---
 
 # Numerical Analysis

@@ -2,7 +2,7 @@
 title: "Advanced Probability"
 code: "STAT2023"
 category: "ME"
-rank: 141
+rank: 2.5.1
 ---
 
 # Advanced Probability

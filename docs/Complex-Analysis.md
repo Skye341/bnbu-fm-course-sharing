@@ -2,7 +2,7 @@
 title: "Complex Analysis"
 code: "MATH4093"
 category: "ME"
-rank: 104
+rank: 2.1.4
 ---
 
 # Complex Analysis
